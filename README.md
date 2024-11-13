@@ -1,4 +1,8 @@
-## Hi there 👋
+## 🌻 Nice to meet you, I'm Autumn 🌻
+
+- 🌱 I’m learning about big data techniques and Drupal.
+- 👯 I’m looking to collaborate on data analysis or machine learning projects.
+- 💬 Ask me about Python, R, or data visualization techniques.
 
 <!--
 **LimeMeringue/LimeMeringue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
